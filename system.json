@@ -1,0 +1,21 @@
+{
+  "name": "earthdawn4e",
+  "title": "Earthdawn 4th Edition",
+  "description": "A game of adventures in a post-Scourge Barsaive",
+  "version": 0.1,
+  "author": "senortroll",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": true,
+  "gridDistance": 1,
+  "gridUnits": "yd",
+}
