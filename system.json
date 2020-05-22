@@ -5,8 +5,8 @@
   "version": 0.1,
   "author": "senortroll",
   "scripts": [],
-  "esmodules": [],
-  "styles": [],
+  "esmodules": ["module/simple.js"],
+  "styles": ["styles/simple.css"],
   "packs": [],
   "languages": [
     {
@@ -18,4 +18,6 @@
   "socket": true,
   "gridDistance": 1,
   "gridUnits": "yd",
+  "url": "https://github.com/senortroll/earthdawn4-foundryvtt",
+  "manifest": "https://github.com/senortroll/earthdawn4-foundryvtt/raw/master/system.json"
 }
