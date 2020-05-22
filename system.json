@@ -5,8 +5,12 @@
   "version": 0.1,
   "author": "senortroll",
   "scripts": [],
-  "esmodules": ["module/simple.js"],
-  "styles": ["styles/simple.css"],
+  "esmodules": [
+    "module/simple.js"
+  ],
+  "styles": [
+    "styles/simple.css"
+  ],
   "packs": [],
   "languages": [
     {
