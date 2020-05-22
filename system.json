@@ -17,5 +17,6 @@
   "gridDistance": 1,
   "gridUnits": "yd",
   "url": "https://github.com/senortroll/earthdawn4-foundryvtt",
-  "manifest": "https://github.com/senortroll/earthdawn4-foundryvtt/raw/master/system.json"
+  "manifest": "https://github.com/senortroll/earthdawn4-foundryvtt/raw/master/system.json",
+  "download": "https://github.com/senortroll/earthdawn4-foundryvtt/archive/v0.1.0.zip"
 }
