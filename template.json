@@ -34,7 +34,7 @@
               "value": 5,
               "step": 5,
               "max": 30
-            },
+            }
           },
           "derived": {
             "health": {
@@ -44,16 +44,16 @@
             },
             "defense": {
               "physical": 0,
-              "mystic": 0
+              "mystic": 0,
               "social": 0
             },
             "armor": {
               "physical": 0,
               "mystic": 0,
               "init_penalty": 0
-            },
+            }
           }
-        },
+        }
       }
     }
   }
